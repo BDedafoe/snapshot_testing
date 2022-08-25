@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="/Users/bdedafoe/Desktop/brittany-projects/snapshot_testing/snapshot-tests/src/gitHubPic.jpg"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Brittany Dedafoe
+      </div>
+      <p
+        className="card-text"
+      >
+        German beer and soccer cheers are some of my favorite things. Hiking and biking make up for the beers but nothing beats a great game of soccer.
+      </p>
+    </div>
+  </div>
+</div>
+`;
